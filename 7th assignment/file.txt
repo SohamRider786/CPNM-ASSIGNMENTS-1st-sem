@@ -1,0 +1,22 @@
+
+the details of student number 1 is:-
+roll no=101
+name=soham
+department=cse
+course=ug12
+year of joining=2021
+marks in six subjects respectively:-		12	23	34	45	56	67
+the details of student number 1 is:-
+roll no=1
+name=soham
+department=engg
+course=bcse
+year of joining=2021
+marks in six subjects respectively:-		12	23	34	45	56	67
+the details of student number 1 is:-
+roll no=12
+name=soham
+department=cse
+course=engg
+year of joining=2021
+marks in six subjects respectively:-		1	2	3	4	5	6
